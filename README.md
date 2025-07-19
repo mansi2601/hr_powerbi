@@ -1,5 +1,3 @@
-# HR DATA ANALYSIS
-An interactive Power BI dashboard analyzing employee attrition patterns using key HR metrics and visuals.
 # 📊 HR Data Analysis Power BI Dashboard
 
 ## 🔍 Overview
